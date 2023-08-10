@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Jalnan";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../_font/Jalnan.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: url("../_font/NanumSquareNeo-aLt.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url("../_font/NanumSquareNeo-bRg.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: url("../_font/NanumSquareNeo-cBd.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: url("../_font/NanumSquareNeo-dEb.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("../_font/NanumSquareNeo-eHv.ttf") format("truetype");
+}
